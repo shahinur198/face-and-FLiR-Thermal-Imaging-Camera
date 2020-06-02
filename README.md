@@ -11,3 +11,6 @@ https://store.roboticsbd.com/sensors/720-amg8833-ir-thermal-camera-breakout.html
 https://leetechbd.com/product/ir-thermal-camera-amg8833/
 
 https://store.roboticsbd.com/sensors/307-mlx90614-contactless-temperature-sensor-module-for-arduino-robotics-bangladesh.html
+
+It's purfect 
+https://circuitdigest.com/microcontroller-projects/ir-thermometer-using-arduino-and-ir-temperature-sensor
