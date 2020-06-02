@@ -10,5 +10,3 @@ https://store.roboticsbd.com/sensors/720-amg8833-ir-thermal-camera-breakout.html
 
 https://leetechbd.com/product/ir-thermal-camera-amg8833/
 
-1508063020
-n!t0L$#@231
